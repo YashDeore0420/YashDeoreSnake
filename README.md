@@ -26,8 +26,6 @@
 ---
 
 ## 🐍 Contribution Snake
-## 🐍 Contribution Snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/YashDeore0420/YashDeore0420/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
