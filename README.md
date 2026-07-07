@@ -1,4 +1,4 @@
-[![@YashDeore0420's Holopin board](https://holopin.me/YashDeore0420)](https://holopin.io/@YashDeore0420)
+
 
 <h1 align="center">Hi 👋, I'm Yash Deore</h1>
 <h3 align="center">A passionate developer from India</h3>
