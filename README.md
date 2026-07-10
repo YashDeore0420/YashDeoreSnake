@@ -10,10 +10,8 @@
 
 ###
 - 🔭 I’m currently working on **VLSI**
-  
-- 🌱 I’m currently learning ** RTL, FPGA , SEMICONDUCTOR ** 
-
-- 📫 How to reach me **yashdeore13@gmail.com**
+  - 🌱 I’m currently learning ** RTL, FPGA , SEMICONDUCTOR ** 
+    - 📫 How to reach me **yashdeore13@gmail.com**
 
 <h3 align="left">Connect with me:</h3> 
 <p align="left">
