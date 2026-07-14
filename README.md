@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Yash Deore</h1>
 <h3 align="center">A passionate chip developer from India</h3>
 
@@ -10,7 +8,7 @@
 
 ###
 - 🔭 I’m currently working on **VLSI**
-  - 🌱 I’m currently learning ** RTL, FPGA , SEMICONDUCTOR ** 
+  - 🌱 I’m currently learning ** RTL, FPGA** 
     - 📫 How to reach me **yashdeore13@gmail.com**
 
 <h3 align="left">Connect with me:</h3> 
