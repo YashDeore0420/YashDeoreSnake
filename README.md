@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yash Deore</h1>
+<h1 align="center">Hi 👋, I'm YASH DEORE </h1>
 <h3 align="center">A passionate chip developer from India</h3>
 
 
