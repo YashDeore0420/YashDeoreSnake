@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm YASH DEORE </h1>
-<h3 align="center">A passionate chip developer from India</h3>
+<h3 align="center">I'm a student of ECE understanding the core electronics and chip designing.
+
+</h3>
 
 
 ###
